@@ -1,5 +1,9 @@
-## Summary
-Hello, I'm Kang Yongmin. I'm a <b>backend junior developer</b> who's interested in streaming. Now I'm studying high availability and delay minimization like <b>MSA</b>.
+Hello, I'm Kang Yongmin. I'm a <b>backend junior developer</b> who's interested in streaming. Now I'm studying high availability and delay minimization like <b>MSA</b>. 
+
+[![Resume Badge](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion)](https://atom-gallon-b06.notion.site/Resume-5373c47185ba412dbee99663e5e1a04d)
+[![Blog Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory)](https://goldtree-of-ce.tistory.com/)
+
+
 
 ## Skills
 #### Language
@@ -25,7 +29,6 @@ Hello, I'm Kang Yongmin. I'm a <b>backend junior developer</b> who's interested 
 
 #### Database
 <div align=left> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -33,6 +36,7 @@ Hello, I'm Kang Yongmin. I'm a <b>backend junior developer</b> who's interested 
 
 #### DevOps
 <div align=left> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
