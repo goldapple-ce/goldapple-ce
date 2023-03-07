@@ -3,6 +3,7 @@ Hello, I'm Kang Yongmin. I'm a <b>backend junior developer</b> who's interested 
 [![Resume Badge](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion)](https://atom-gallon-b06.notion.site/Resume-5373c47185ba412dbee99663e5e1a04d)
 [![Blog Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory)](https://goldtree-of-ce.tistory.com/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldapple-ce&show_icons=true&theme=transparent)
 
 
 ## Skills
@@ -46,7 +47,6 @@ Hello, I'm Kang Yongmin. I'm a <b>backend junior developer</b> who's interested 
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
-
 
 
 
