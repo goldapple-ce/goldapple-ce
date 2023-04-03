@@ -1,3 +1,4 @@
+<b>'Career if results are good, experience if not good.'</b>  
 Hello, I'm Kang Yongmin. I'm a <b>backend junior developer</b> who's interested in streaming. Now I'm studying high availability and delay minimization like <b>MSA</b>. 
 
 [![Resume Badge](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion)](https://atom-gallon-b06.notion.site/Resume-5373c47185ba412dbee99663e5e1a04d)
